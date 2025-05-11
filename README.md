@@ -43,7 +43,7 @@ AS_ES_Final_Project/
 
 ├── README.md           --> This file
 
-├── lnk_msp430fr2355.cmd--> Linker command file
+└── lnk_msp430fr2355.cmd--> Linker command file
 
 ## Hardware Used
 
