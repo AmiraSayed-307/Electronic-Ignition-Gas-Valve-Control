@@ -45,6 +45,12 @@ AS_ES_Final_Project/
 - Ignitor LED to simulate ignition
 - Solenoid Valve : Enable pilot gas line
 
+## Hardware Files
+
+The full project schematic and PCB design files are available on Altium 365 at: 
+[Electronic Ignition Gas Valve Control PCB Project](https://rowan-university-8.365.altium.com/designs/4371E3AB-6447-4105-96EA-14A15F8EF8E9)
+
+
 ## How to Use
 
 1. Clone this repository:
