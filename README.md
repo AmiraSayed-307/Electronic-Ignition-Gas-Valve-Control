@@ -22,16 +22,17 @@ The control module supports safe and reliable electronic ignition of a heating a
 ## Project Structure
 
 AS_ES_Final_Project/
-├── include/ --> All .h header files
-├── src/ --> All .c source files
-├── Debug/ --> CCS debug output (not used for source)
-├── driverlib/ --> Optional driver libraries
-├── .settings/ --> Code Composer Studio settings
-├── targetConfigs/ --> CCS target configurations
-├── .ccsproject --> CCS project file
-├── .cproject --> CCS project file
-├── .project --> CCS project file
-└── README.md --> This file
+├── include/            --> All .h header files
+├── src/                --> All .c source files
+├── driverlib/          --> Optional driver libraries
+├── targetConfigs/      --> CCS target configurations
+├── .ccsproject         --> CCS project file
+├── .clangd             --> CCS project file
+├── .cproject           --> CCS project file
+├── .project            --> CCS project file
+├── .gitignore          --> Ignore unnecessary files
+├── README.md           --> This file
+├── lnk_msp430fr2355.cmd--> Linker command file
 
 ## Hardware Used
 
