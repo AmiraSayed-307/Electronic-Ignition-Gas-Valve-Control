@@ -1,0 +1,14 @@
+# Ignore CCS build folders
+Debug/
+Release/
+.settings/
+.metadata/
+*.launch
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*~
